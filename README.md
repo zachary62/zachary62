@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![YouTube](https://img.shields.io/badge/-ZacharyLLM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ZacharyLLM)
+[![YouTube](https://img.shields.io/badge/-ZacharyLLM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ZacharyLLM?sub_confirmation=1)
 [![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/ZacharyHuang12)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zachary-h-23aa37172/)
 [![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zachary62)
