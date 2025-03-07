@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/ZacharyHuang12)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zachary-h-23aa37172/)
 [![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zachary62)
-[![Website](https://img.shields.io/badge/-ZacharyHuang-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://zachary62.github.io/zach_public_material/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@zh2408)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/zachary62)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://zacharyhuang.substack.com/)
