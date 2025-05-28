@@ -13,7 +13,7 @@
 </div>
 
 
-Incoming researcher at Microsoft Research AI Frontiers. I currently work on Large Language Model Agents & Systems. I love building, writing, and memes. Previous: PhD@Columbia University, Microsoft Gray Systems Lab, Databricks, 2023 Google PhD Fellowship.
+Researcher at Microsoft Research AI Frontiers. I currently work on Large Language Model Agents & Systems. I love building, writing, and memes. Previous: PhD@Columbia University, Microsoft Gray Systems Lab, Databricks, 2023 Google PhD Fellowship.
 
 
 <p align="center">
